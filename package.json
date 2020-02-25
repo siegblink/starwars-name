@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/siegblink/starwars-names.git"
+    "url": "git+https://github.com/siegblink/starwars-name-picker.git"
   },
   "keywords": [
     "random",
@@ -18,9 +18,9 @@
   "author": "Sieg C. Balona <siegblink@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/siegblink/starwars-names/issues"
+    "url": "https://github.com/siegblink/starwars-name-picker/issues"
   },
-  "homepage": "https://github.com/siegblink/starwars-names#readme",
+  "homepage": "https://github.com/siegblink/starwars-name-picker#readme",
   "dependencies": {
     "unique-random-array": "2.0.0"
   }
