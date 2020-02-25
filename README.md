@@ -1,1 +1,1 @@
-# starwars-names
+# starwars-name-generator
